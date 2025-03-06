@@ -46,7 +46,7 @@ npm run dev  # or yarn dev
 ## 📸 Screenshots
 
 ![Task Modal Screenshot](./screenshots/create-task.png)
-![Task List Screenshot](./screenshots/create-list.png)
+![Task List Screenshot](./screenshots/task-list.png)
 
 ## 🤝 Contributing
 
