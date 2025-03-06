@@ -45,8 +45,8 @@ npm run dev  # or yarn dev
 
 ## 📸 Screenshots
 
-![Task Modal Screenshot](./screenshots/modal.png)  
-_Add a screenshot of your modal here_
+![Task Modal Screenshot](./screenshots/create-task.png)
+![Task List Screenshot](./screenshots/create-list.png)
 
 ## 🤝 Contributing
 
@@ -64,5 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaboration, reach out via:
 
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [harshpatel2125](https://github.com/harshpatel2125)
+- Email: harshpatel2125@gmail.com
