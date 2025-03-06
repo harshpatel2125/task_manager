@@ -1,4 +1,4 @@
-# Create Task Modal
+# Task Management Dashboard
 
 This project is a **React + TypeScript** implementation of a **Task Creation Modal** using **Formik**, **Yup**, and **Redux**. It allows users to create tasks with validation, set priorities, and manage statuses seamlessly.
 
